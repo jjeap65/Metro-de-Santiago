@@ -1,0 +1,31 @@
+{
+    "name": "Ascensores Metro Santiago",
+    "short_name": "Ascensores Metro",
+    "description": "Consulta de ascensores del Metro de Santiago - Información técnica offline",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0f0f1a",
+    "theme_color": "#0f0f1a",
+    "orientation": "portrait",
+    "lang": "es-CL",
+    "scope": "./",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "utilities",
+        "productivity"
+    ],
+    "shortcuts": []
+}

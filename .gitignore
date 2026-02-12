@@ -1,0 +1,14 @@
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Scripts used for generation (not needed in production)
+create_complete_appjs.py
+create_icons.py
+app_data_only.txt
+
+# System files
+.DS_Store
+Thumbs.db
